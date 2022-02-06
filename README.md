@@ -19,12 +19,14 @@ The analysis was completed smoothly with the instruction on website. In my daily
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The chart of outcomes based on launch date is created as below. The theater outcome counts over twelve months clearly indicate that early summer, especially May is the period when to launch a campaign and to achieve most sucessful outcomes. Oppositely, the campaigns launched in December run out with lease successful outcomes, but most failed outcomes. Probably May would be a best time to launch new campaigns.
+
+    The chart of outcomes based on launch date is created as below. The theater outcome counts over twelve months clearly indicate that early summer, especially May is the period when to launch a campaign and to achieve most sucessful outcomes. Oppositely, the campaigns launched in December run out with lease successful outcomes, but most failed outcomes. Probably May would be a best time to launch new campaigns.
 
 ![Outcomes vs date_Image](https://github.com/hankai26/Campaign_Fund_Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
-The chart of outcomes based on goals is also prepared. The trend shows that the successful rate is highest when the goal amount's less than 1,000. The successful rate trend generally drops when funding goal increases to the range of 25,000 to 29,999. When the goal is higher than 25,000, the trend looks more complicate showing another successful peak when goal's between 35,000 and 45,000, but with significant decrease when the amount's above 45,000. The highest failed outcome rate occurrs when the goal is set up in the range of 45,000 and 49,999.
+
+    The chart of outcomes based on goals is also prepared. The trend shows that the successful rate is highest when the goal amount's less than 1,000. The successful rate trend generally drops when funding goal increases to the range of 25,000 to 29,999. When the goal is higher than 25,000, the trend looks more complicate showing another successful peak when goal's between 35,000 and 45,000, but with significant decrease when the amount's above 45,000. The highest failed outcome rate occurrs when the goal is set up in the range of 45,000 and 49,999.
 
 ![Outcomes vs goal_Image](https://github.com/hankai26/Campaign_Fund_Analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
@@ -34,9 +36,10 @@ The chart of outcomes based on goals is also prepared. The trend shows that the 
     2. Within the available data, it is expected to examine or eliminating the outlier that are not representative of the useful data. The analysis would be more accurate and efficient if the central tendency, variance, and standard deviation were measured and evaluated.
 
 - What are some other possible tables and/or graphs that we could create?
-Based on the limitation discussed above, we could further develop the analysis using box plots, to examine the data validation.
 
-![BoxPlots_Goals](https://github.com/hankai26/Campaign_Fund_Analysis/blob/main/resources/BoxPlots.png)
+    Based on the limitation discussed above, we could further develop the analysis using box plots, to examine the data validation. The outlier should be removed prior to analyzing the relationship between outcomes and launch date as well as fund goals.
 
-The outlier should be removed prior to analyzing the relationship between outcomes and launch date as well as fund goals.
+![BoxPlots_Goals](https://github.com/hankai26/Campaign_Fund_Analysis/blob/main/resources/BoxPlots_smallersize.PNG)
+
+
 
