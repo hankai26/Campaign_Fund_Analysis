@@ -18,8 +18,11 @@ The launch date could be critical to a fundraising, especially the launch season
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+![GitHub Dark](https://github.com/hankai26/Campaign_Fund_Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+
 - What can you conclude about the Outcomes based on Goals?
 
+![GitHub](https://github.com/hankai26/Campaign_Fund_Analysis/blob/main/resources/Outcomes_vs_Goals.png)
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
