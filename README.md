@@ -9,14 +9,19 @@ The analysis includes two technical analysis. The first one analyzes campaign ou
 
 ### Analysis of Outcomes Based on Launch Date
 The launch date could be critical to a fundraising, especially the launch season and month. Using the Kickstarter data set, we created the pivot table and chart to represent the relationship between launch time and campaign outcomes. Based on the counts of sucessful, failed and canceled outcomes through all years, we summarize the changes among different months using two filters of Category and years. It allows us looking into each year or all years available. Here, we filter the theater category, taking into account of all years from 2009 through 2017 to overview the trends.
+
 ![Pivot_1](https://github.com/hankai26/Campaign_Fund_Analysis/blob/main/resources/PivotTable_1.png)
+
 
 ### Analysis of Outcomes Based on Goals
 We'd like to see if the campaign outcomes are related to the funding goal amount. Similarly, this analysis is conducted based on the percentages of successful, failed and canceled outcomes, respectively, using different funding goal ranges. Here, a filter has been applied to select the subcategory of plays to focus on this field.
+
 ![Pivot_2](https://github.com/hankai26/Campaign_Fund_Analysis/blob/main/resources/PivotTable_2.png)
+
 
 ### Challenges and Difficulties Encountered
 The analysis was completed smoothly with the instruction on website. In my daily work as a water resource engineer I did multiple analysis and modeling in excel using tables manually created. This is the first time I tried pivot table function. It's a pretty convenient and efficient way to create working sheet, automatically. The flexible filter option is a plus. A little bit challenge is to determine which values or rows should be selected to meet the project goal appropriately, and which chart could best show the expected trends and solution. That requires the deepen understanding about the data and the project background.
+
 
 ## Results
 
